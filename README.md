@@ -236,6 +236,7 @@
 ## Non-Technical
 - [ ] [Good to Great: Why Some Companies Make the Leap...And Others Don't ](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
 - [ ] [Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
+- [X] [How to win friends and influence people](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 - [X] [Rich Dad Poor Dad](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1543626610)
 - [X] [7 Habits of highly effective people](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519)
 - [ ] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
