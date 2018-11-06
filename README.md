@@ -220,7 +220,7 @@
 
 ## MVC Framework
 - [ ] [Django Best Practices](http://slides.com/sudipkafle/django-best-practices)
-- [ ] [Django Girls Tutorial](http://tutorial.djangogirls.org/en/index.html)
+- [X] [Django Girls Tutorial](http://tutorial.djangogirls.org/en/index.html)
 - [ ] [Learn Python Django Web](https://github.com/kabirbaidhya/learn-python-django-web)
 - [ ] [Rapid Development with Django, Python and Google App Engine](https://www.youtube.com/watch?v=v1gTI4BOPUw)
 - [ ] [Treehouse: Django Basics](https://teamtreehouse.com/library/Django-basics)
